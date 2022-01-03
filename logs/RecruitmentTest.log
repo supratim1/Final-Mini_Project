@@ -1,0 +1,57 @@
+[INFO ] 2022-01-03 21:52:51.778 [main] BaseClass - Username entered
+[INFO ] 2022-01-03 21:52:51.863 [main] BaseClass - Password entered
+[INFO ] 2022-01-03 21:52:54.856 [main] BaseClass - Clicked on Login Button
+[INFO ] 2022-01-03 21:53:04.184 [main] BaseClass - reset button enabled
+[INFO ] 2022-01-03 21:53:04.184 [main] BaseClass - Reset operation is verified successfully 
+[INFO ] 2022-01-03 21:53:04.278 [main] BaseClass - Navigated to Home Page Welcome section
+[INFO ] 2022-01-03 21:53:07.778 [main] BaseClass - User logged out successfully
+[INFO ] 2022-01-03 21:53:07.884 [main] BaseClass - Username entered
+[INFO ] 2022-01-03 21:53:07.970 [main] BaseClass - Password entered
+[INFO ] 2022-01-03 21:53:12.366 [main] BaseClass - Clicked on Login Button
+[INFO ] 2022-01-03 21:53:13.648 [main] BaseClass - Successfully read data
+1
+[INFO ] 2022-01-03 21:53:25.476 [main] BaseClass - firstname read successfully
+[INFO ] 2022-01-03 21:53:25.476 [main] BaseClass - lastname read successfully
+[INFO ] 2022-01-03 21:53:25.476 [main] BaseClass - email read successfully
+[INFO ] 2022-01-03 21:53:29.507 [main] BaseClass - Successfully read data
+2
+[INFO ] 2022-01-03 21:53:41.243 [main] BaseClass - firstname read successfully
+[INFO ] 2022-01-03 21:53:41.243 [main] BaseClass - lastname read successfully
+[INFO ] 2022-01-03 21:53:41.244 [main] BaseClass - email read successfully
+[INFO ] 2022-01-03 21:53:44.940 [main] BaseClass - Successfully read data
+3
+[INFO ] 2022-01-03 21:53:57.184 [main] BaseClass - firstname read successfully
+[INFO ] 2022-01-03 21:53:57.184 [main] BaseClass - lastname read successfully
+[INFO ] 2022-01-03 21:53:57.184 [main] BaseClass - email read successfully
+[INFO ] 2022-01-03 21:54:01.139 [main] BaseClass - Successfully read data
+4
+[INFO ] 2022-01-03 21:54:13.675 [main] BaseClass - firstname read successfully
+[INFO ] 2022-01-03 21:54:13.675 [main] BaseClass - lastname read successfully
+[INFO ] 2022-01-03 21:54:13.676 [main] BaseClass - email read successfully
+[INFO ] 2022-01-03 21:54:17.744 [main] BaseClass - Successfully read data
+5
+[INFO ] 2022-01-03 21:54:29.788 [main] BaseClass - firstname read successfully
+[INFO ] 2022-01-03 21:54:29.789 [main] BaseClass - lastname read successfully
+[INFO ] 2022-01-03 21:54:29.789 [main] BaseClass - email read successfully
+[INFO ] 2022-01-03 21:54:33.889 [main] BaseClass - Successfully read data
+6
+[INFO ] 2022-01-03 21:54:46.239 [main] BaseClass - firstname read successfully
+[INFO ] 2022-01-03 21:54:46.239 [main] BaseClass - lastname read successfully
+[INFO ] 2022-01-03 21:54:46.239 [main] BaseClass - email read successfully
+[INFO ] 2022-01-03 21:54:50.225 [main] BaseClass - Data added successfully
+[INFO ] 2022-01-03 21:54:50.324 [main] BaseClass - Navigated to Home Page Welcome section
+[INFO ] 2022-01-03 21:54:52.789 [main] BaseClass - User logged out successfully
+[INFO ] 2022-01-03 21:54:52.864 [main] BaseClass - Username entered
+[INFO ] 2022-01-03 21:54:52.932 [main] BaseClass - Password entered
+[INFO ] 2022-01-03 21:54:57.025 [main] BaseClass - Clicked on Login Button
+[INFO ] 2022-01-03 21:54:57.948 [main] BaseClass - image captured
+[INFO ] 2022-01-03 21:54:57.948 [main] BaseClass - image captured successfully
+[INFO ] 2022-01-03 21:54:58.021 [main] BaseClass - Navigated to Home Page Welcome section
+[INFO ] 2022-01-03 21:55:00.036 [main] BaseClass - User logged out successfully
+[INFO ] 2022-01-03 21:55:00.105 [main] BaseClass - Username entered
+[INFO ] 2022-01-03 21:55:00.168 [main] BaseClass - Password entered
+[INFO ] 2022-01-03 21:55:04.185 [main] BaseClass - Clicked on Login Button
+[INFO ] 2022-01-03 21:55:04.599 [main] BaseClass - Images are same
+[INFO ] 2022-01-03 21:55:04.599 [main] BaseClass - image compared successfully
+[INFO ] 2022-01-03 21:55:04.665 [main] BaseClass - Navigated to Home Page Welcome section
+[INFO ] 2022-01-03 21:55:07.032 [main] BaseClass - User logged out successfully

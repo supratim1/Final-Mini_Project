@@ -1,0 +1,23 @@
+[INFO ] 2022-01-02 13:47:54.186 [main] BaseClass - Username entered
+[INFO ] 2022-01-02 13:47:54.226 [main] BaseClass - Password entered
+[INFO ] 2022-01-02 13:48:00.527 [main] BaseClass - Clicked on Login Button
+[INFO ] 2022-01-02 13:48:03.511 [main] BaseClass - Checkbox is Selected, proceed further
+[INFO ] 2022-01-02 13:48:03.537 [main] BaseClass - del click
+[INFO ] 2022-01-02 13:48:05.872 [main] BaseClass - Navigated to Home Page Welcome section
+[INFO ] 2022-01-02 13:48:07.290 [main] BaseClass - User logged out successfully
+[INFO ] 2022-01-02 13:48:07.340 [main] BaseClass - Username entered
+[INFO ] 2022-01-02 13:48:07.375 [main] BaseClass - Password entered
+[INFO ] 2022-01-02 13:48:09.442 [main] BaseClass - Clicked on Login Button
+[INFO ] 2022-01-02 13:48:12.566 [main] BaseClass - sucessfully saved Navigated to Home Page Welcome section
+[INFO ] 2022-01-02 13:48:13.968 [main] BaseClass - User logged out successfully
+[INFO ] 2022-01-02 13:48:14.006 [main] BaseClass - Username entered
+[INFO ] 2022-01-02 13:48:14.039 [main] BaseClass - Password entered
+[INFO ] 2022-01-02 13:48:16.062 [main] BaseClass - Navigated to location section successfully.Clicked on Login Button
+[INFO ] 2022-01-02 13:48:19.147 [main] BaseClass - Navigated to Home Page Welcome section
+[INFO ] 2022-01-02 13:48:20.597 [main] BaseClass - User logged out successfully
+[INFO ] 2022-01-02 13:48:20.632 [main] BaseClass - Username entered
+[INFO ] 2022-01-02 13:48:20.665 [main] BaseClass - Password entered
+[INFO ] 2022-01-02 13:48:22.889 [main] BaseClass - Clicked on Login Button
+[INFO ] 2022-01-02 13:48:24.051 [main] BaseClass - Navigated to leave section successfully
+[INFO ] 2022-01-02 13:48:24.096 [main] BaseClass - Navigated to Home Page Welcome section
+[INFO ] 2022-01-02 13:48:25.536 [main] BaseClass - User logged out successfully

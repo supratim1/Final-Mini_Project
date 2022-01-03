@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="OrangeHRM" thread-count="2" parallel="classes">
+ 
+  <test name="AllTests">
+    <classes>
+      <class name="com.pom.testCases.PimTest"/>
+      <class name="com.pom.testCases.HomePageTest"/>
+      <class name="com.pom.testCases.MyInfoTest"/>
+      <class name="com.pom.testCases.BuzzSectionTest"/>
+      <class name="com.pom.testCases.RecruitmentTest"/>
+      <class name="com.pom.testCases.LeaveTest"/>
+      <class name="com.pom.testCases.LoginTest"/>
+      <class name="com.pom.testCases.AdminTest"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->

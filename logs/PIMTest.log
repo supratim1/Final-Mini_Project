@@ -1,0 +1,49 @@
+[INFO ] 2022-01-03 21:58:25.736 [main] BaseClass - Username entered
+[INFO ] 2022-01-03 21:58:25.810 [main] BaseClass - Password entered
+[INFO ] 2022-01-03 21:58:29.422 [main] BaseClass - Clicked on Login Button
+3
+[INFO ] 2022-01-03 21:58:35.015 [main] BaseClass - Firstname entered
+[INFO ] 2022-01-03 21:58:35.216 [main] BaseClass - Lastname entered
+[INFO ] 2022-01-03 21:58:35.365 [main] BaseClass - Employee ID provided
+[INFO ] 2022-01-03 21:58:35.533 [main] BaseClass - Username provided
+[INFO ] 2022-01-03 21:58:35.761 [main] BaseClass - password entered
+[INFO ] 2022-01-03 21:58:36.321 [main] BaseClass - Employee saved Succesfully
+[INFO ] 2022-01-03 21:58:52.940 [main] BaseClass - Firstname entered
+[INFO ] 2022-01-03 21:58:53.082 [main] BaseClass - Lastname entered
+[INFO ] 2022-01-03 21:58:53.182 [main] BaseClass - Employee ID provided
+[INFO ] 2022-01-03 21:58:53.346 [main] BaseClass - Username provided
+[INFO ] 2022-01-03 21:58:53.592 [main] BaseClass - password entered
+[INFO ] 2022-01-03 21:58:54.131 [main] BaseClass - Employee saved Succesfully
+[INFO ] 2022-01-03 21:59:08.215 [main] BaseClass - Firstname entered
+[INFO ] 2022-01-03 21:59:08.463 [main] BaseClass - Lastname entered
+[INFO ] 2022-01-03 21:59:08.646 [main] BaseClass - Employee ID provided
+[INFO ] 2022-01-03 21:59:08.828 [main] BaseClass - Username provided
+[INFO ] 2022-01-03 21:59:09.033 [main] BaseClass - password entered
+[INFO ] 2022-01-03 21:59:09.482 [main] BaseClass - Employee saved Succesfully
+[INFO ] 2022-01-03 21:59:09.483 [main] BaseClass - All data saved sucessfully
+[INFO ] 2022-01-03 21:59:09.547 [main] BaseClass - Navigated to Home Page Welcome section
+[INFO ] 2022-01-03 21:59:16.562 [main] BaseClass - User logged out successfully
+[INFO ] 2022-01-03 21:59:16.639 [main] BaseClass - Username entered
+[INFO ] 2022-01-03 21:59:16.697 [main] BaseClass - Password entered
+[INFO ] 2022-01-03 21:59:19.881 [main] BaseClass - Clicked on Login Button
+[INFO ] 2022-01-03 21:59:22.895 [main] BaseClass - URL verified succesfully for Pim page
+[WARN ] 2022-01-03 21:59:23.023 [main] BaseClass - Delete dialogue box appears to choose and data deleted successfully
+[INFO ] 2022-01-03 21:59:25.847 [main] BaseClass - Navigated to Home Page Welcome section
+[INFO ] 2022-01-03 21:59:27.463 [main] BaseClass - User logged out successfully
+[INFO ] 2022-01-03 21:59:27.532 [main] BaseClass - Username entered
+[INFO ] 2022-01-03 21:59:27.583 [main] BaseClass - Password entered
+[INFO ] 2022-01-03 21:59:31.294 [main] BaseClass - Clicked on Login Button
+[INFO ] 2022-01-03 21:59:38.330 [main] BaseClass - Search button displayed 
+Search operation is verified successfully 
+[INFO ] 2022-01-03 21:59:38.390 [main] BaseClass - Navigated to Home Page Welcome section
+[INFO ] 2022-01-03 21:59:40.407 [main] BaseClass - User logged out successfully
+[INFO ] 2022-01-03 21:59:40.467 [main] BaseClass - Username entered
+[INFO ] 2022-01-03 21:59:40.524 [main] BaseClass - Password entered
+[INFO ] 2022-01-03 21:59:43.617 [main] BaseClass - Clicked on Login Button
+[INFO ] 2022-01-03 21:59:52.119 [main] BaseClass - select the name of the employee
+[log] CLICK on L(452,627)@S(0)[0,0 1920x1080] (532 msec)
+[log]  TYPE "C:\Users\shreya_chatterjee\eclipse-workspace\Persistent_Mini_Project\mini-selenium\Files\photo.jfif"
+[log] CLICK on L(707,671)@S(0)[0,0 1920x1080] (532 msec)
+[INFO ] 2022-01-03 22:00:03.563 [main] BaseClass - Navigated to Home Page Welcome section
+[INFO ] 2022-01-03 22:00:05.775 [main] BaseClass - User logged out successfully
+[INFO ] 2022-01-03 22:00:05.775 [main] BaseClass - photo uploaded succesfully

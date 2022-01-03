@@ -1,0 +1,24 @@
+[INFO ] 2022-01-02 13:03:23.705 [main] BaseClass - Username entered
+[INFO ] 2022-01-02 13:03:23.744 [main] BaseClass - Password entered
+[INFO ] 2022-01-02 13:03:30.269 [main] BaseClass - Clicked on Login Button
+[INFO ] 2022-01-02 13:03:30.274 [main] BaseClass - Url for the Home page in the Application matches
+[INFO ] 2022-01-02 13:03:30.277 [main] BaseClass - Page title matches
+[INFO ] 2022-01-02 13:03:30.330 [main] BaseClass - Navigated to the the welcome panel
+[INFO ] 2022-01-02 13:03:31.823 [main] BaseClass - Clicked on logout button from the dropdown menu
+[INFO ] 2022-01-02 13:03:31.868 [main] BaseClass - Username entered
+[INFO ] 2022-01-02 13:03:31.903 [main] BaseClass - Password entered
+[INFO ] 2022-01-02 13:03:34.110 [main] BaseClass - Clicked on Login Button
+[INFO ] 2022-01-02 13:03:34.110 [main] BaseClass - User logged in successfully
+[INFO ] 2022-01-02 13:03:34.128 [main] BaseClass - Page logo displayed
+[INFO ] 2022-01-02 13:03:34.658 [main] BaseClass - Navigated to the Leave requests dashboard
+[INFO ] 2022-01-02 13:03:34.729 [main] BaseClass - Navigated to Home Page Welcome section
+[INFO ] 2022-01-02 13:03:36.214 [main] BaseClass - User logged out successfully
+[INFO ] 2022-01-02 13:03:36.251 [main] BaseClass - Username entered
+[INFO ] 2022-01-02 13:03:36.285 [main] BaseClass - Password entered
+[INFO ] 2022-01-02 13:03:38.732 [main] BaseClass - Clicked on Login Button
+[INFO ] 2022-01-02 13:03:38.732 [main] BaseClass - User logged in successfully
+[INFO ] 2022-01-02 13:03:43.639 [main] BaseClass - Navigated to the the welcome panel
+[INFO ] 2022-01-02 13:03:45.093 [main] BaseClass - Clicked on logout button from the dropdown menu
+[INFO ] 2022-01-02 13:03:45.132 [main] BaseClass - Username entered
+[INFO ] 2022-01-02 13:03:45.166 [main] BaseClass - Password entered
+[INFO ] 2022-01-02 13:03:47.306 [main] BaseClass - Clicked on Login Button
